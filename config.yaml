@@ -3,9 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        object detection: 4
+        SLAM: 3
+        simultaneous localization and mapping: 3
+        transformer: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2
